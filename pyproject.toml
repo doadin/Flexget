@@ -155,7 +155,7 @@ metadata.hooks.custom.locked-groups = [
 version.path = "flexget/_version.py"
 
 [tool.uv]
-dependency-groups.docs = { requires-python = ">=3.13" }
+dependency-groups.docs = { requires-python = ">=3.14" }
 
 [tool.ruff]
 line-length = 99
